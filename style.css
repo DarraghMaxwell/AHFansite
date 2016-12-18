@@ -1,0 +1,115 @@
+.jumbotron{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:400px;
+margin-bottom:0px;
+color:#006600;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+button{
+	color:white;
+}
+h2{
+	color:white;
+}
+h3{
+	color:white;
+}
+a{
+color:white;
+}
+img{
+height:475px;
+width:700px;
+}
+.names{
+padding-bottom:3cm;
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.btn-primary{
+background-image: url("achievementhunter.jpg");
+}
+.btn-default{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+color:white;
+}
+.intro{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:600px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp1{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:300px;
+margin-bottom:0px;
+color:#33ff33;
+font-size:17px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp2{
+padding-bottom:3cm;
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:450px;
+margin-bottom:0px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp3{
+padding-bottom:3cm;
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:350px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp4{
+padding-bottom:3cm;
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:450px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp5{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:450px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp6{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:500px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.lp7{
+background-image: url("achievementhunter.jpg");
+background-attachment:fixed;
+min-height:290px;
+color:#33ff33;
+font-size:16px;
+text-shadow: 5px 0px 3px rgba(0, 0, 0, 0.7);
+}
+.bottom{
+background:black;
+color:#006600;
+min-height:120px;
+text-align:center;
+}
